@@ -1,0 +1,168 @@
+body{
+    background-color:rgba(226, 19, 147, 0.774)
+       
+}
+.mkn{
+    display: flex ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+    
+.Flamingo{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+.Mariam{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+.Menen{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+.Mako{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+
+.Guedih{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+
+.Mama{
+    height: 300px;  
+    width: 300px;
+    background-color:#8C7B6C ;
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    margin-block-end: 4px;
+    margin-top: 4px ;
+}
+
+
+.centre{
+    display: flex ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.blockcentre1{
+    background-color: darkblue;
+    height:400px;
+    widows: 400px;
+    margin-block-end: 10px;
+    border-radius: 10px;
+    display:flex;
+    padding-right: 10px;
+}
+
+.blockcentre2{
+    background-color: darkblue;
+    height:400px;
+    widows: 400px;
+    margin-block-end: 10px;
+    display:flex;
+    border-radius: 10px;
+   
+}
+
+
+.blockcentre3{
+    background-color: darkblue;
+    height:400px;
+    width: 400px;
+    margin-block-end: 10px;
+    display:flex;
+    border-radius: 10px;
+   
+}
+
+footer{
+    background-color: rgba(104, 138, 201, 0.76);
+    height:20px;
+    width:2000px;
+    margin-top: 10cm;
+}
+
+.fuck{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap ;
+    margin-block-end: 10px; 
+    border-radius: 10px;
+    
+}
+
+li{
+    border : solid 1px rgb(255, 0, 0);
+    width: 200px; 
+    height : 250px;    
+    align-items: center;
+    flex-wrap: wrap;
+    margin-block-end: 5px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-around;
+    background-color: blueviolet;
+   
+}
+
+li :hover{
+    background-color: #D97D5B ;
+    height:200px;
+    width: 250px;
+    align-content: center;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+li a{
+    text-decoration: none;
+    color: white ;
+}
+
+div[class^="main"]{
+    border-right: black;
+    align-items: flex-end;
+    
+}
+
+    
+
